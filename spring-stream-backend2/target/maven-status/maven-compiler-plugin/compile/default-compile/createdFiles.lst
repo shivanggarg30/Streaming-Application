@@ -1,0 +1,10 @@
+com\stream\app\spring_stream_backend2\repositories\VideoRepository.class
+com\stream\app\spring_stream_backend2\entities\Course.class
+com\stream\app\spring_stream_backend2\entities\Video$VideoBuilder.class
+com\stream\app\spring_stream_backend2\payload\CustomMessage$CustomMessageBuilder.class
+com\stream\app\spring_stream_backend2\impl\VideoServiceImpl.class
+com\stream\app\spring_stream_backend2\controllers\VideoController.class
+com\stream\app\spring_stream_backend2\VideoService.class
+com\stream\app\spring_stream_backend2\entities\Video.class
+com\stream\app\spring_stream_backend2\payload\CustomMessage.class
+com\stream\app\spring_stream_backend2\SpringStreamBackend2Application.class
